@@ -1,2 +1,4 @@
 myaddon/src/myaddon/__pycache__
 myaddon/src/.DS_Store
+.env
+dictionary.csv
